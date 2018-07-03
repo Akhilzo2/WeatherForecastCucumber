@@ -4,7 +4,9 @@
 Environment
 -----------------------
 Java Version : 1.8
+
 Maven Version: 3.3.9
+
 O S          : Windows 10 Home
 
 
@@ -26,6 +28,7 @@ How to run the tests
 3. Now execute the follwoing command
 
 	mvn clean test
+	
 4. Now the project build will start and will execute the test cases
 
 
