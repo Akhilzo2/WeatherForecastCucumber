@@ -28,6 +28,7 @@ How to run the tests
 4. Now the project build will start and will execute the test cases
 
 			OR
+		----------------------
 
 1. Download the project and extract it
 2. Open command prompt and navigate to the project root folder [WeatherForecast] where POM.xml file is present
@@ -41,4 +42,4 @@ How to run the tests
 Test Report
 -----------------------
 The Cucumber Test report will be present in the follwoing location
-	[WeatherForecast]\target\HTML-Report\index.html
+	[ WeatherForecast]\target\HTML-Report\index.html ]
