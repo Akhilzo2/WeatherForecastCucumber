@@ -22,6 +22,12 @@ https://github.com/buildit/acceptance-testing
 
 How to run the tests
 -----------------------
+1. Download the project and extract it
+2. Import the project into an IDE like Eclipse
+3. Run the 'RunTest.java' file as a Junit Test [/WeatherForecast/src/test/java/runner/RunTest.java]
+4. Now the project build will start and will execute the test cases
+
+			OR
 
 1. Download the project and extract it
 2. Open command prompt and navigate to the project root folder [WeatherForecast] where POM.xml file is present
