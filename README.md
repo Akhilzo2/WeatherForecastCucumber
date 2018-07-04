@@ -40,5 +40,5 @@ OR
 
 Test Report
 -----------------------
-The Cucumber Test report will be present in the follwoing location
+The Cucumber Test report will be present in the following location
 	[ WeatherForecast]\target\HTML-Report\index.html ]
