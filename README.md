@@ -31,7 +31,7 @@ OR
 
 1. Download the project and extract it
 2. Open command prompt and navigate to the project root folder [WeatherForecast] where POM.xml file is present
-3. Now execute the follwoing command
+3. Now execute the following command
 
 	mvn clean test
 	
